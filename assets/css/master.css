@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Montserrat:wght@400;500;600;700;800&display=swap');
+
+body {
+    font-family: "Montserrat";
+}
+
+.header-inner-div {
+    padding-bottom: 10rem !important;
+}
+
+#randomUserDisplaySection {
+    margin-top: -12rem;
+}
+
+.user-rounded-image {
+    border-radius: 100%;
+    margin-bottom: -4rem;
+    border: 4px solid gainsboro;
+}
+
+#displayUserInfo {
+    vertical-align: middle;
+}
+
+.bg-gradiant {
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+
+}
