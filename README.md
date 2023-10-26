@@ -3,7 +3,7 @@
   <a href="https://arshiafarrokhi.github.io/RandomPersonGenerator/">
   </a>
 
-  <h3 align="center">NFTwebSite</h3>
+  <h3 align="center">RandomPersonGenerator</h3>
 
   <p align="center">
     You can get more information from my personal website
