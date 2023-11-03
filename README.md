@@ -25,7 +25,7 @@
 
 Hints :
 
-build with Html , css , Bootstrap & vanila js
+build with Html , css , Bootstrap & vanila js (Api Fetch)
 It has been tried to clean the code
 happy we with star and follow in linkedin , enjoy coding :)
 
